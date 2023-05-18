@@ -1,0 +1,8 @@
+2023-05-15 22:49:16 - El usuario lando1 ha iniciado sesión desde el navegador Google Chrome. - Direccion IP: ::1 - Sistema Operativo: WINNT - Navegador: Google Chrome - Contador de Inicios de Sesion: 1
+2023-05-15 22:50:12 - El usuario lando1 ha iniciado sesión desde el navegador Google Chrome. - Direccion IP: ::1 - Sistema Operativo: WINNT - Navegador: Google Chrome - Contador de Inicios de Sesion: 2
+2023-05-15 22:53:22 - El usuario lando1 ha iniciado sesión desde el navegador Google Chrome. - Direccion IP: ::1 - Sistema Operativo: WINNT - Navegador: Google Chrome - Contador de Inicios de Sesion: 3
+2023-05-15 22:54:32 - El usuario lando1 ha iniciado sesión desde el navegador Google Chrome. - Direccion IP: ::1 - Sistema Operativo: WINNT - Navegador: Google Chrome - Contador de Inicios de Sesion: 4
+2023-05-15 23:08:40 - El usuario lando1 ha iniciado sesión desde el navegador Mozilla Firefox. - Direccion IP: 127.0.0.1 - Sistema Operativo: WINNT - Navegador: Mozilla Firefox - Contador de Inicios de Sesion: 5
+2023-05-18 14:30:04 - El usuario lando1 ha iniciado sesión desde el navegador Google Chrome. - Direccion IP: ::1 - Sistema Operativo: WINNT - Navegador: Google Chrome - Contador de Inicios de Sesion: 41
+2023-05-18 14:46:53 - El usuario lando1 ha iniciado sesión desde el navegador Google Chrome. - Direccion IP: ::1 - Sistema Operativo: WINNT - Navegador: Google Chrome - Contador de Inicios de Sesion: 42
+2023-05-18 15:04:07 - El usuario lando1 ha iniciado sesión desde el navegador Google Chrome. - Direccion IP: ::1 - Sistema Operativo: WINNT - Navegador: Google Chrome - Contador de Inicios de Sesion: 42
